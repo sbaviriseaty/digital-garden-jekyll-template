@@ -1,4 +1,4 @@
-# sbaviriseaty.me
+# sbaviriseaty.me 👋
 This is the source for my personal website. It is powered by Jekyll and is automatically deployed to Netlify.
 
 ## Local set up
