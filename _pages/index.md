@@ -16,8 +16,6 @@ This website will serve as a glimpse into my mind as I explore the applications 
   Take a look at <span style="font-weight: bold">[[Your first note|my first note]]</span> to enter my garden!
 </p>
 
-## Hey! How's it going? 👋
-
 In addition to learning about journaling, here's what I've been up to. 
 1. Nurturing my long-abandoned affinity toward Hans Zimmer soundtracks by finally learning piano
 2. Getting the hang of vector art, namely the pencil tool, in Affinity Designer
