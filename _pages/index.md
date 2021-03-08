@@ -5,17 +5,18 @@ id: home
 permalink: /
 ---
 
-# Welcome! 🌱
+# Hello! I'm Sruthika. 🌱
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
   Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
 </p>
 
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
+I'm a biomedical engineering student at the University of Florida, and I'm interested in the intersection of artificial intelligence in healthcare. 
+As I getter better grasp of how AI technology can be applied to personalized medicine or diagnosis processes, I also want to learn about the ethical concerns of its application. 
 
-The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll). If you need any help, my [DMs are open on Twitter (@vaillancourtmax)](https://twitter.com/vaillancourtmax). Say hi! 👋
+This website will sevre as a glimpse into my mind as I explore the applcations and implications of AI in healthcare, while also exploring the practice of digital gardening. The notes I write here are setting the roots for topics I want to better understand or techniques I want to further employ. 
 
-If this template helps you in any way, [consider buying me a coffee](https://ko-fi.com/maximevaillancourt)! ☕️
+If you want to reach out, my [DMs are open on Twitter (@sbaviriseaty)](https://twitter.com/sbaviriseaty). Say hi! 👋
 
 <style>
   .wrapper {
